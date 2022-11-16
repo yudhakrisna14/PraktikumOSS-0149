@@ -1,2 +1,3 @@
+Yudha krisna satria : G.231.20.0149 : semarang
 Mata kuliah : Open source system
 Catatan : Praktikum dengan mengunakan  GIT
